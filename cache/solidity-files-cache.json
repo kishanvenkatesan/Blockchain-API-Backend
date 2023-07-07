@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Akash Sivakumar\\Desktop\\TARP_deploy\\TARP-Project_bc_deploy\\contracts\\Dappazon.sol": {
+      "lastModificationDate": 1677750048765,
+      "contentHash": "ebd306d3ad399af9b0b514876ae9ef79",
+      "sourceName": "contracts/Dappazon.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Dappazon"
+      ]
+    }
+  }
+}
